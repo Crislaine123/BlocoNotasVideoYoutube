@@ -1,0 +1,30 @@
+
+INSERT INTO Notas (Conteudo, DataAtualizacao)
+VALUES (
+    '<p><strong>Anotação importante:</strong> Revisar os endpoints da API antes da entrega final.</p>',
+    '2025-05-15 08:30:00'
+);
+
+INSERT INTO Notas (Conteudo, DataAtualizacao)
+VALUES (
+    '<p>Checklist do dia:</p><ul><li>Deploy em produção</li><li>Backup do banco</li><li>Envio de e-mail para clientes</li></ul>',
+    '2025-05-14 17:10:00'
+);
+
+INSERT INTO Notas (Conteudo, DataAtualizacao)
+VALUES (
+    '<p><em>Observação:</em> O cliente solicitou alteração na cor do layout e inclusão de um botão de contato.</p>',
+    '2025-05-13 15:45:00'
+);
+
+INSERT INTO Notas(Conteudo, DataAtualizacao)
+VALUES (
+    '<p><u>Lembrete:</u> Atualizar documentação técnica até sexta-feira.</p>',
+    '2025-05-12 10:00:00'
+);
+
+INSERT INTO Notas (Conteudo, DataAtualizacao)
+VALUES (
+    '<h3>Notas da sprint</h3><p>Foi realizada a entrega das funcionalidades principais. Próxima etapa: testes automatizados.</p>',
+    '2025-05-11 11:20:00'
+);
